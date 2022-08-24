@@ -10,7 +10,8 @@
         "outDir": "./dist",
         "declaration": true,
         "esModuleInterop": true,
-        "moduleResolution": "node"
+        "moduleResolution": "node",
+        "declarationDir": "."
         // "strictNullChecks": true
     },
 }

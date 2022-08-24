@@ -1,6 +1,6 @@
 {
   "name": "strange-des",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A strange DES implementation",
   "main": "index.js",
   "index": "dist/index.js",
@@ -10,8 +10,11 @@
     "lint": "eslint src/**/*.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": {
+    "email": "zeithrold@gmail.com",
+    "name": "Zeithrold"
+  },
+  "license": "MIT",
   "devDependencies": {
     "@types/jest": "^28.1.7",
     "@types/node": "^18.7.12",
