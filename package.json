@@ -1,6 +1,6 @@
 {
   "name": "strange-des",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A strange DES implementation",
   "main": "index.js",
   "index": "dist/index.js",
