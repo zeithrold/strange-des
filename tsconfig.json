@@ -6,12 +6,10 @@
         "**/*.test.ts"
     ],
     "compilerOptions": {
-        "target": "ES2017",
+        "target": "ES5",
         "outDir": "./dist",
         "declaration": true,
-        "esModuleInterop": true,
-        "moduleResolution": "node",
-        "declarationDir": "."
+        "moduleResolution": "node"
         // "strictNullChecks": true
     },
 }

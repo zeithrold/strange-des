@@ -2,8 +2,8 @@
   "name": "strange-des",
   "version": "1.0.5",
   "description": "A strange DES implementation",
-  "main": "index.js",
-  "index": "dist/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "test": "jest --coverage",
